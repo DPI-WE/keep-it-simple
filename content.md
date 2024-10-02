@@ -1,5 +1,12 @@
 # Keep It Simple
 
+<div class="alert alert-primary mt-2">
+
+- [slides](https://github.com/DPI-WE/slides-keep-it-simple)
+- [video](https://youtu.be/DkOPuO1j_9M)
+
+</div>
+
 ## Lesson Overview
 This lesson focuses on the importance of simplicity in software development, encouraging trainees to build Minimum Viable Products (MVPs) that address the fundamental needs of users.
 
