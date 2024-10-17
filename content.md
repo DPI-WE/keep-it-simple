@@ -57,7 +57,6 @@ Simplicity is key when developing software. The first step towards creating a su
 - What's the smallest thing you can build right now to test one hypothesis?
 - Collaborate with peers to select an idea (hopefully from many options) and scope it down to a good initial feature set in a functional specification.
 
-<!-- TODO: add photos -->
 ## Famous MVPs: Learning from the Best
 
 Explore the initial launches of famous startups and analyze their MVPs:
