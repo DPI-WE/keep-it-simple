@@ -62,13 +62,44 @@ Simplicity is key when developing software. The first step towards creating a su
 
 Explore the initial launches of famous startups and analyze their MVPs:
 
-1. **Airbnb:** Started as a simple webpage showcasing available rooms during a convention.
-2. **Twitter:** Originated as an internal tool at Odeo for employees to send messages.
-3. **Gmail:** Began as a personal email tool for a single user before being shared with coworkers.
-4. **Facebook:** Initially a social platform only for Harvard students, built from components of prior projects.
-5. **Instagram:** Evolved from a complex app to a simple photo-sharing platform based on user feedback.
-6. **Amazon:** Launched as a platform selling only books.
-7. **Dropbox:** Conceptualized to solve a personal problem of forgetting a USB drive.
+### Airbnb 
+Started as a simple webpage showcasing available rooms during a convention.
+
+![](assets/airbnb.jpeg)
+
+![](assets/airbnb.png)
+
+### Twitter
+Originated as an internal tool at Odeo for employees to send messages.
+
+![](assets/twitter.jpeg)
+
+### Gmail
+Began as a personal email tool for a single user (because he hated microsoft outlook so much he built his own email client) before being shared with coworkers.
+
+![](assets/gmail.jpg)
+
+### Facebook
+Initially a social platform only for Harvard students, built from components of prior projects.
+
+![](assets/facebook.png)
+
+![](assets/facebook-profile.jpg)
+
+### Instagram
+Evolved from a complex app with many features to a simple photo-sharing platform after getting data and user feedback.
+
+![](assets/instagram.png)
+
+### Amazon
+Launched as a platform selling only books.
+
+![](assets/amazon.png)
+
+### Dropbox
+Conceptualized to solve a personal problem of forgetting a USB drive.
+
+![](assets/dropbox.png)
 
 <!-- **Activity:** Review each MVP and discuss as a group what features were essential in the initial product and how they evolved. -->
 
